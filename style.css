@@ -1,0 +1,13 @@
+/*
+Theme Name: Thrive Guitar
+Author: Your Name
+Description: Theme for the website https://thriveguitar.com
+Version: 1.0
+Text Domain: thriveguitar
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
