@@ -18,7 +18,7 @@ function thriveguitar_enqueue_styles()
   wp_enqueue_style('thriveguitar-style', get_stylesheet_uri());
 
   // Enqueue the main.css
-  wp_enqueue_style('thriveguitar-main-style', get_template_directory_uri() . '/assets/css/main.css');
+  wp_enqueue_style('thriveguitar-main-style', get_template_directory_uri() . '/assets/css/style.css');
 
   // Enqueue the main.js
   wp_enqueue_script('thriveguitar-main-script', get_template_directory_uri() . '/assets/js/main.js', array(), null, true);

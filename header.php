@@ -8,9 +8,8 @@
 </head>
 
 <body <?php body_class(); ?>>
-  <header>
+  <header class="bg-primary-500 text-white mb-4 p-4">
     <h1><?php bloginfo('name'); ?></h1>
-    <p><?php bloginfo('description'); ?></p>
   </header>
   <nav>
     <?php
